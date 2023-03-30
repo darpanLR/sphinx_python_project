@@ -9,7 +9,7 @@ sphinx:
 
 python:
   install:
-    - requirements: requirementstxt
+    - requirements: requirements.txt
 
 build:
   os: ubuntu-22.04
